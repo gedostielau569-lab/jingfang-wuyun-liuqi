@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.db
+*.log
+.DS_Store
+.env
+*.key
+scripts/data/baojian_ocr/
+scripts/data/baojian_index.json
+scripts/baojian_clause.py
+scripts/baojian_selftest.py
+build_*/
+seg_*/
